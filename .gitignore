@@ -1,5 +1,6 @@
 /node_modules
 /public_html/storage
-/cashe
+/cache
+/app
 /.idea
 .env
